@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoroutinesMeet</string>
+    <string name="item_text">Item View</string>
+</resources>
